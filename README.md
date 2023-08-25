@@ -1,3 +1,3 @@
 # radiofronteira
-Um web site para curte aquele som da fronteira
+Um web site para quem curte o som da fronteira
 
